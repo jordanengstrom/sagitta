@@ -6,4 +6,4 @@ the dock one of the mechanics tells you that the engines on your house boat will
 
 ![Problem Diagram](./assets/sag-diag.png)
 
-Please see pdf for derivation of necessary formulas
+Please see the formulas pdf for a detailed derivation of necessary formulas
